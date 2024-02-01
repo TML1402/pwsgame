@@ -148,7 +148,7 @@ a:hover {
 }
 
 a:active {
-  color: red;
+  color: #121212;
   background-color: transparent;
   text-decoration: underline;
 }
